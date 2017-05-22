@@ -4,7 +4,7 @@
 
 Thành viên:
 * [ ] **1212172** Phan Quốc Khánh (khanhphan1212172)
-* [ ] **MSSV2** Tên sinh viên 2 (tên tài khoản github)
+* [ ] **1412037** Tên sinh viên 2 (tv24456)
 * [ ] **MSSV3** Tên sinh viên 2 (tên tài khoản github)
 
 ## Yêu cầu
